@@ -1,0 +1,275 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+.gradient-bg{
+    height: 714px;
+}
+.img{
+    height: 25px;
+}
+.hi{
+    height: 800px;
+}
+.hvr{
+    font-family: 'Roboto', sans-serif;
+    padding-top: 20px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.hvr:hover{
+    background-color: #fafafa;
+}
+.adb-logo{
+    color: #fa0f00;
+}
+.logo-img{
+    padding-top: 17.5px;
+}
+.welc{
+    position: relative;
+    bottom: 415px;
+    padding-left: 122px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.free{
+    position: relative;
+    bottom: 400px;
+    padding-left: 122px;
+    font-size: 16px;
+
+}
+
+.btn {
+    position: relative;
+    padding: 5px 14px 7px 14px;
+    left: 120px;
+    bottom: 383px;
+    border-radius: 100px;
+    background-color: #1473e6;
+    color: #ffffff;
+  }
+  .btn:hover {
+    background-color: #0d66d0;
+    text-decoration: none;
+  }
+
+  .trial{
+    position: relative;
+    left: 135px;
+    font-weight: 600;
+    bottom: 383px;
+  }
+  .trial:hover{
+    text-decoration: underline;
+  }
+
+ #navbar{
+    transition: 1s;
+ }
+ 
+ .nine{
+    transform: translate(475px, 26px);
+    filter: invert(45%) sepia(0%) saturate(0%) hue-rotate(155deg) brightness(98%) contrast(98%);
+ }
+
+ .nine:hover{
+    filter: invert(9%) sepia(1%) saturate(1069%) hue-rotate(314deg) brightness(92%) contrast(79%);
+ }
+
+ .blu{
+    transform: translate(500px, 15px);
+ }
+
+ .find{
+    transform: translate(525px, 24px) rotate(90deg);
+ }
+ .find:hover{
+    filter: invert(50%) sepia(68%) saturate(2286%) hue-rotate(184deg) brightness(99%) contrast(92%);
+ }
+
+ .cntnt{
+    background-color: #9797fc;
+    padding-left: 25px;
+    padding-right: 25px;
+ }
+
+ .ab{
+    transform: translateY(-100px);
+    height: 500px;
+    width: 463px;
+ }
+
+ .abc{
+    padding-top: 1px;
+    padding-left: 28px;
+    padding-right: 28px;
+    gap: 40px;
+ }
+
+ .pss{
+    position: relative;
+    bottom: 567px;
+    padding-left: 24px;
+    font-weight: 600;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+ }
+
+ .fast{
+    position: relative;
+    bottom: 560px;
+    padding-left: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+ }
+
+ .learn{
+    position: relative;
+    bottom: 560px;
+    padding-left: 24px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+ }
+ .learn:hover{
+    text-decoration: underline;
+ }
+
+ .exp{
+   padding-top: 35px;
+   font-size: 17px;
+   font-weight: 600;
+   font-family: 'Roboto', sans-serif;
+   position: relative; 
+ }
+
+ .exp1{
+   font-size: 17px;
+   font-weight: 600;
+   font-family: 'Roboto', sans-serif;
+   position: relative; 
+ }
+
+ .uses{
+   display: flex;
+   flex-direction: column;
+   gap: 15px;
+   font-size: 14px;
+   padding-bottom: 20px;
+   padding-top: 20px;
+ }
+
+ .uses1{
+   display: flex;
+   flex-direction: column;
+   gap: 18px;
+   padding-top: 16px;
+   font-size: 14px;
+ }
+
+ .u:hover{
+   text-decoration: underline;
+   cursor: pointer;
+ }
+
+ .h{
+   border-color: black;
+ }
+
+.ftr{
+   margin-top: -120px;
+   width: 100%;
+   height: 615px;
+   background-color: #fafafa;
+   padding-left: 60px;
+   padding-right: 60px;
+}
+
+.all{
+   font-style: 'roboto' , sans-serif;
+   padding-top: 38px;
+   gap: 130px;
+}
+
+.shopA{
+   font-size: 14px;
+   font-weight: 600;
+   padding-bottom: 5px;
+}
+.shop{
+   cursor: pointer;
+}
+.shop:hover{
+   color: #999999;
+}
+
+.xyz{
+   display: flex;
+   flex-direction: column;
+   user-select:none;
+   font-size: 11.2px;
+   gap: 8px;
+}
+
+.hh{
+   border-color: #999999;
+}
+
+.middle{
+   padding-left: 410px;
+   gap: 10px;
+}
+
+.products{
+   padding-top: 1px;
+}
+
+.products:hover{
+   color: #999999;
+}
+ .nav--hidden{
+   top: -80px;
+   transition: ease-in-out 1s;
+ }
+
+ .nav--visible{
+   top: 0px;
+   transition: ease-in-out 0.1s;
+ }
+
+ .div1{
+   /* background-color: bisque; */
+   width: 21.2%;
+   height: 101.5px;
+   gap: 23px;
+   justify-content: end;
+   align-items: center;
+ }
+
+ .div2{
+   /* background-color: lightcoral; */
+   height: 101.5px;
+   width: 78.8%;
+   align-items: center;
+   justify-content: end;
+   font-size: 10px !important;
+ }
+
+ .copy{
+   color: #4c4c4c;
+   font-weight: 350;
+ }
+
+ .sell:hover{
+   color: #999999;
+ }
+
+ .change{
+   background-color: transparent;
+   font-size: 10px !important;
+ }
+
+ .lol:hover{
+   filter: invert(75%) sepia(0%) saturate(1600%) hue-rotate(235deg) brightness(84%) contrast(79%);
+ }
