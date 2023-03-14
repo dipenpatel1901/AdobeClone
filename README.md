@@ -5,7 +5,7 @@ This website is made with simple frontend technologies for Desktop Website.:
 - JS
 - Tailwind CSS
 
-To access the clone site: ![CLICK HERE](adobeclone19.netlify.app)
+To access the clone site: ![CLICK HERE](https://adobeclone19.netlify.app/)
 
 **Some snips of the webpage is displayed below**
 
