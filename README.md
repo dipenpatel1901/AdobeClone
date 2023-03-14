@@ -5,8 +5,6 @@ This website is made with simple frontend technologies for Desktop Website.:
 - JS
 - Tailwind CSS
 
-![CLICK HERE TO ACCESS THE CLONES SITE](https://adobeclone19.netlify.app/)
-
 **Some snips of the webpage is displayed below**
 
 ![Home_page](https://user-images.githubusercontent.com/83295136/224954590-ddb24bf4-5796-457f-8985-7716983b2516.jpg)
